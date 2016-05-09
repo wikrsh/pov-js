@@ -4,7 +4,7 @@ body {
     color: #6E6E6E;
 }
 .heading {
-    padding: 40px 0;
+    padding: 20px 0;
     text-align: center;
 }
 .heading h1 {
@@ -50,7 +50,7 @@ footer {
 #pov-example {
     width: 170px;
     display: flex;
-    margin: 50px auto 100px auto;
+    margin: 50px auto 50px auto;
 }
 .vibrater {
     display: inline-block;
